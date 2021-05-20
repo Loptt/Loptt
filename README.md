@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 <h3 align="center">A 22 year old developer from Monterrey, Nuevo Leon, Mexico</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Loptt&theme=onedark&margin-w=15&margin-h=15" alt="pcruiher08" /></a> </p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=pcruiher08&count_private=true&show_icons=true&include_all_commits=true&theme=onedark&hide=issues,prs" alt="pcruiher08" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pcruiher08&label=Profile%20views&color=0e75b6&style=flat" alt="pcruiher08" /> </p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=Loptt&count_private=true&show_icons=true&include_all_commits=true&theme=onedark&hide=issues,prs" alt="pcruiher08" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Loptt&label=Profile%20views&color=0e75b6&style=flat" alt="Loptt" /> </p>
 
 - 🔭 I’m currently working on [Pong Representation Learning with Autoencoders](https://github.com/Loptt/pong-autoencoder).
 - 🌱 I’m currently learning about Deep Learning and Reinforcement Learning.
