@@ -19,7 +19,5 @@ Here are some ideas to get you started:
 <p><img src="https://github-readme-stats.vercel.app/api?username=Loptt&count_private=true&show_icons=true&include_all_commits=true&theme=onedark&hide=issues,prs" alt="pcruiher08" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Loptt&label=Profile%20views&color=0e75b6&style=flat" alt="Loptt" /> </p>
 
-<div style="width:300px; background:black; color:#AAAAAA; padding: 10px;text-align:center; border: 1px solid #333333;">Your rainbow is shaded<b> indigo and red.</b><br><br><div style="background: #bf0040">&nbsp;</div><div style="background: #bf5540">&nbsp;</div><div style="background: #bf8040">&nbsp;</div><div style="background: #406f40">&nbsp;</div><div style="background: #404dbf">&nbsp;</div><div style="background: #4000bf">&nbsp;</div><div style="background: #9500bf">&nbsp;</div><br>What is says about you: You are a passionate person. You appreciate cities, technology, and other great things people have created. You get bored easily and want friends who will keep up with you. Friends count on you for being honest and insightful.<br><br><a href="http://spacefem.com/quizzes/rainbow">Find the colors of your rainbow at spacefem.com.</a></div>
-
 - 🔭 I’m currently working on [Pong Representation Learning with Autoencoders](https://github.com/Loptt/pong-autoencoder).
 - 🌱 I’m currently learning about Deep Learning and Reinforcement Learning.
