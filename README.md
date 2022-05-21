@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
  
 <h1 align="center">Hi 👋, I'm Carlos Estrada</h1>
-<h3 align="center">A 22 year old developer from Monterrey, Mexico</h3>
+<h3 align="center">A 23 year old developer from Monterrey, Mexico</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Loptt&theme=onedark&margin-w=15&margin-h=15" alt="pcruiher08" /></a> </p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=Loptt&count_private=true&show_icons=true&include_all_commits=true&theme=onedark&hide=issues,prs" alt="pcruiher08" /></p>
